@@ -7,5 +7,3 @@ def solution(n, m, section):
             answer +=1
             paint = section[i]
     return answer
-
-# 카드 뭉치
