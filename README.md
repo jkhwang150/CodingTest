@@ -1,7 +1,4 @@
-# programmers
-프로그래머스 코딩테스트
-
-📦programmers
+📦programmers-1
  ┣ 📂.git
  ┃ ┣ 📂hooks
  ┃ ┃ ┣ 📜applypatch-msg.sample
