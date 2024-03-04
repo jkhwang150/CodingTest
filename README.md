@@ -1,8 +1,8 @@
 # 코딩테스트 연습용 레포입니다.
 
 ```HTML
-📦Ormi-CodingTest 100
-(80/100)
+📦Ormi-CodingTest 100제 (Python)
+(80/100) 
 
 📦programmers
  ┣ 📂C
