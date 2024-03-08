@@ -2,7 +2,7 @@
 
 ```HTML
 📦Ormi-CodingTest 100제 (Python)
-(80/100) 
+(85/100) 
 
 📦programmers
  ┣ 📂C
