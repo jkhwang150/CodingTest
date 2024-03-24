@@ -2,7 +2,7 @@
 
 ```HTML
 📦Ormi-CodingTest 100제 (Python)
- + WenivWolrd(2/20)
+ + WenivWolrd(3/20)
 (85/100) 
 
 📦programmers
