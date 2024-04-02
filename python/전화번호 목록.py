@@ -15,16 +15,10 @@ def solution(phone_book):
     return True
 
 # startswitch => 접두어를 찾는 함수
-def solution(phone_book):
-    
-    # 정렬하기 => 접두어가 되는 번호가 항상 인접한 위치에 있음
-    phone_book.sort()
-    
-    # 현재 전화번호와 다음 전화번호를 순차 비교
-    # 접두어가 있다면 False 반환
-    for i in range(len(phone_book)-1):
-        if phone_book[i+1].startswith(phone_book[i]):
-            return False
-    
-    # 접두어가 없다면 True 반환
-    return True
+def solution(phoneBook):
+    phoneBook.sort()
+
+    for p1, p2 in zip(phoneBook, phoneBook[1:]):
+        if p2.startswith(p1):
+            return False
+    return True
