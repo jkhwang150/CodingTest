@@ -1,7 +1,7 @@
 # 코딩테스트 연습용 레포입니다.
 
 ```HTML
-~ 24.04
+~ 24.04.06
 📦Ormi-CodingTest 100제 (Python)
  + WenivWolrd(3/20)
 (85/100) 
