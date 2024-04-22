@@ -13,6 +13,6 @@ def solution(data):
                     num += 1
             else:
                 num += int(lis[i+1])
-    a = num //10
-    b = num % 10
+    a = num //10 # 몫 > 월
+    b = num % 10 # 나머지 > 일
     return "{}월 {}일".format(a,b)
